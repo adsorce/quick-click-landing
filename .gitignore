@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Dependencies (if we add any later)
+node_modules/
+
+# Build outputs (if we add build process later)
+dist/
+build/
+
+# Environment variables (shouldn't have any for static site, but just in case)
+.env
+.env.local
+
+# Temporary files
+*.tmp
+.temp/
